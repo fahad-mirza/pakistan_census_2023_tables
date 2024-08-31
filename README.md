@@ -1,7 +1,7 @@
 # Pakistan Population Census 2023 tables
 Converted tables publicly shared by Pakistan Bureau of Statistics on the Population Census 2023 on their website from PDF to Excel Format. The tables are created in a manner that users from development and research centers can make use of it.
 
-The tables are a conversion of the "District Wise" PDF files uploaded.
+The tables are a conversion of the "District Wise" PDF files uploaded. The cleaning and processing of these files were done using [Stata](https://www.stata.com/).
 
 Link to original PDF tables: </br>
 https://www.pbs.gov.pk/digital-census/detailed-results
