@@ -1,0 +1,4 @@
+name_admin_unit,part_of_district,admin_unit,region,all_structures,high_rise_res,high_rise_econ,high_rise_res_econ,normal_res,normal_econ,normal_res_econ,other_jughi,other_under_constr
+ISLAMABAD,ISLAMABAD,DISTRICT,OVERALL,416897,2137,795,1324,337525,31439,13614,2713,27350
+ISLAMABAD,ISLAMABAD,DISTRICT,RURAL,245119,304,452,973,198008,17554,8507,1063,18258
+ISLAMABAD,ISLAMABAD,DISTRICT,URBAN,171778,1833,343,351,139517,13885,5107,1650,9092

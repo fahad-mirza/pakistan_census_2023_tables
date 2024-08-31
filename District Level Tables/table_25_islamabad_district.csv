@@ -1,0 +1,4 @@
+name_admin_unit,part_of_district,admin_unit,region,households,res_st_owned,res_st_rented,res_st_rent_free,res_st_govt,res_st_non_govt,res_st_other,owner_gender_male,owner_gender_female,no_rooms_one,no_rooms_two,no_rooms_three,no_rooms_grtreq_four
+ISLAMABAD,ISLAMABAD,DISTRICT,OVERALL,410993,218953,149403,10248,28703,576,3110,359426,19178,33309,114841,141522,121321
+ISLAMABAD,ISLAMABAD,DISTRICT,RURAL,226022,134832,83485,5167,1177,247,1114,212863,10621,15825,57851,83458,68888
+ISLAMABAD,ISLAMABAD,DISTRICT,URBAN,184971,84121,65918,5081,27526,329,1996,146563,8557,17484,56990,58064,52433
